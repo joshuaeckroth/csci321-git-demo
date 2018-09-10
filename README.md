@@ -1,4 +1,6 @@
 # csci321-git-demo
 
-commit2
+b1
+
+commit3
 
