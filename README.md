@@ -1,6 +1,4 @@
 # csci321-git-demo
 
-b2
-
-commit6
+b1 commit6
 
